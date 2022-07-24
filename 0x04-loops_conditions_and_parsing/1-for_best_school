@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Using for loop to print sth 10 times
-for i in {1..10}
-do
-  echo "Best School"
+# Using for loop to print sth 10 tim
+for i in {1..10}; do
+	echo "Best School"
 done
