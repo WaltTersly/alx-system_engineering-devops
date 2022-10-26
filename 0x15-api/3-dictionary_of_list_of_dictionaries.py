@@ -3,9 +3,9 @@
 Python script to export data in the JSON format
 """
 
+import json
 import requests
 from sys import argv
-import json
 
 
 userss = requests.get('https://jsonplaceholder.typicode.com/users')
